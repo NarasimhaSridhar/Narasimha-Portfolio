@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Narasimha-Portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Narasimha-Portfolio/static/js/main.2bfd2aec.js",
+    "static/js/453.acca0757.chunk.js": "/Narasimha-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/IMG_20180530_001528_150.png": "/Narasimha-Portfolio/static/media/IMG_20180530_001528_150.81c698d7f9176ae7c4dc.png",
+    "static/media/TMS-Screenshot.png": "/Narasimha-Portfolio/static/media/TMS-Screenshot.a3ca889bae12aefc60a7.png",
+    "index.html": "/Narasimha-Portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Narasimha-Portfolio/static/css/main.e6c13ad2.css.map",
+    "main.2bfd2aec.js.map": "/Narasimha-Portfolio/static/js/main.2bfd2aec.js.map",
+    "453.acca0757.chunk.js.map": "/Narasimha-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2bfd2aec.js"
+  ]
+}
